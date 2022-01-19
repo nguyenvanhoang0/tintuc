@@ -1,0 +1,91 @@
+ .s1  {
+ 	width: 700px;
+	margin: 0px auto;
+}
+
+ .a1{
+    
+}
+.b1 {
+	display: flex;
+}
+
+.c1 {
+	background-color: red;
+	color: white;
+	width: 10%;
+}
+.c2 {
+   width: 90%;
+}
+.b2 {
+}
+.d1 {
+	list-style-type: none;
+	display: flex;
+	background-color:blue ;
+	padding-left: 100px;
+
+}
+
+.d1 li  {
+	margin-left: 10px;
+	color: white;
+}
+
+.a2{
+	display: flex;
+}
+.b3 {
+  width: 40%;
+}
+.t {
+	width:35% ;
+}
+.b4 {
+	width: 25%;
+	border: solid  5px;
+	height: 170px;
+}
+ .d2 {
+		list-style-type: none;
+
+}
+.d2 li {
+	color: black;
+}
+label{
+	padding-bottom: 5px;
+}
+input {
+	width: 100%;
+	padding-top: 8px;
+		border: solid  5px;
+
+}
+.t1 {
+	padding-bottom: 15px;
+}
+.t2 {
+	height: 70px;
+}
+
+.f1 {
+	background-color: orange;
+    color: white;
+	border: none;
+	padding: 7px;
+	width: 20%;
+}
+.f2{
+	background-color: red;
+	color: white;
+	border: none;
+	padding: 7px;
+	width: 20%;
+}
+.dialog-body {
+	width: 100px;
+	margin: 0px auto;
+}
+
